@@ -2,7 +2,7 @@
 
 - 💬 Ask me about Javascript, React, Design, Health, Youtube
 - 🔭 I’m currently working on Monitrail
-- 🌱 I’m currently learning Github and Typescript
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on fintech/e-commerce/health projects
 - 📫 How to reach me:  Twitter- [Creativogee](https://twitter.com/Creativogee)
 - ⚡ Fun fact: OG are initials of my name
