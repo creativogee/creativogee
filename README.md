@@ -1,4 +1,4 @@
-### Hi there! I'm Creativogee 👋
+### Hi there! I'm Geeb 👋
 
 - 👯 I’m looking to collaborate on fintech/e-commerce/health projects
 - 📫 How to reach me:  Twitter- [Creativogee](https://twitter.com/Creativogee)
