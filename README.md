@@ -1,6 +1,6 @@
 ### Hi there! I'm Geeb 👋
 
-👯 I’m looking for opportunities in fintech, e-commerce, healthtech, edtech projects and more <br><br>
+👯 I’m looking for opportunities in fintech, e-commerce, healthtech, edtech and more <br><br>
 📫 Contact me on: 
 - Twitter- [creativogee](https://twitter.com/creativogee)
 - Email- omowole.gbenga@gmail.com
