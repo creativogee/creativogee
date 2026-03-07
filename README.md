@@ -1,7 +1,4 @@
-### Hi there! I'm Geeb 👋
-_Ceator of [taxjuicer.com](https://taxjuicer.com), [nest-feature-guard](https://www.npmjs.com/package/nest-feature-guard) and [@crudmates/form-config](https://www.npmjs.com/package/@crudmates/form-config) packages on npm_
-
-👯 I’m looking for opportunities in fintech, e-commerce, healthtech, edtech, web3 and more <br><br>
+👯 I’m looking for opportunities in fintech, e-commerce, healthtech, edtech, web3, AI and more <br><br>
 📫 Contact me on: 
 - Twitter- [creativogee](https://twitter.com/creativogee)
 - Email- omowole.gbenga@gmail.com
